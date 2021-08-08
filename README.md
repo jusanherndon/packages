@@ -24,7 +24,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - packages
+         - jusanherndon.packages
 
 License
 -------
